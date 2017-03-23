@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Acwebapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
@@ -25,3 +26,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# acwebapp
+Experimental learning app built with Angular, Firebase
+>>>>>>> dc98c225f53d5fd97c526309dfd972d9425c0be1
