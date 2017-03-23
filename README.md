@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Acwebapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
@@ -29,4 +28,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # acwebapp
 Experimental learning app built with Angular, Firebase
->>>>>>> dc98c225f53d5fd97c526309dfd972d9425c0be1
